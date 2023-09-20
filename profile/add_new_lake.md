@@ -14,7 +14,7 @@ At least one of [scrapers][scrapers] or [tide-provider][tide-provider] should be
 
 [repo][api]
 
-[example PR](https://github.com/woog-life/api/pull/94)
+[example PR](https://github.com/woog-life/api/pull/146)
 
 The [api][api] simply needs to know 3 things about the lake:
 
@@ -33,7 +33,7 @@ The example PR only contains info about `temperature`/`supportes_booking` (depre
 
 [repo][k8s-config]
 
-[example PR](https://github.com/woog-life/k8s-config/pull/10)
+[example PR](https://github.com/woog-life/k8s-config/pull/12)
 
 [scrapers][scrapers] uses [k8s-config][k8s-config] for the lake UUIDs
 
@@ -41,7 +41,7 @@ The example PR only contains info about `temperature`/`supportes_booking` (depre
 
 [repo][scrapers]
 
-[example PR](https://github.com/woog-life/scrapers/pull/34/files)
+[example PR](https://github.com/woog-life/scrapers/pull/55)
 
 We're using scrapy here to scrape data from several different sources, check the [current implementations](https://github.com/woog-life/scrapers/tree/master/lake_scrapers/spiders) to see whether the website you want to pull data from might have been implemented already.
 

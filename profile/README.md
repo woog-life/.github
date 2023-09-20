@@ -1,3 +1,3 @@
 # woog-life
 
-[Adding a new lake docs](./add_new_lake.md)
+[Adding a new lake docs](/profile/add_new_lake.md)
